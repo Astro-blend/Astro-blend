@@ -6,6 +6,7 @@
 - Software & Web developer
 - Logo Artist
 - Composer
+- Photographer
 
 ## Proficient Programming Languages
 - Web
@@ -27,4 +28,8 @@
   - Audacity
   - Voicemeeter Potato
  
-## Projects
+## Past Work
+![](r1.png)
+![](untitled2.png)
+![](20240830_183359.jpg)
+![](20240830_183143.jpg)
